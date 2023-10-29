@@ -8,14 +8,12 @@
       "storage",
       "tabs"
     ],
-    "background": {
-        "service_worker": "background.js"  
-      },
+ 
     "action": {
       "default_popup": "popup.html"
     },
     "host_permissions": [
-      "https://www.hindustantimes.com/world-news/asim-jamil-death-asim-jamil-son-of-renowned-islamic-scholar-maulana-tariq-jamil-dies-report-101698599008675.html"
+      "https://www.hindustantimes.com/"
     ]
   }
   
